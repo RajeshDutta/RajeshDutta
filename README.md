@@ -1,5 +1,6 @@
-### Hi there 👋
-
+- 👋 Hi, I’m Rajesh Dutta, @RajeshDutta
+- 🔭 I’m currently working on DevOps and Cloud Computing Technologies.
+- 👀 I’m interested in DevOps and Cloud Computing.
 <!--
 **RajeshDutta/RajeshDutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
